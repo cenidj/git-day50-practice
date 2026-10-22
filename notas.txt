@@ -1,1 +1,2 @@
 Estoy aprendiendo Git
+Ya entiendo git add y git commit
